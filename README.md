@@ -32,7 +32,6 @@ I love coding
 
 <a href="http://www.github.com/ashlinleee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashlinleee&stroke=10b981&background=000000&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
-<a href="http://www.github.com/ashlinleee"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashlinleee&bg_color=000000&color=10b981&line=6366f1&point=10b981&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ashlinleee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashlinleee&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
