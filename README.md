@@ -12,6 +12,9 @@ I love coding
 * ✉️  You can contact me at [ashlinleegeorge@gmail.com](mailto:ashlinleegeorge@gmail.com)
 * 🧠  I'm learning Python
 
+<img align=“right” alt=“Coding” width=“400” scr=“[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif]”>
+
+
 ### Skills
 
 
