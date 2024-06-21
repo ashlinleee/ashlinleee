@@ -3,7 +3,7 @@
 <marquee behavior="scroll" direction="left"><img src="https://fontmeme.com/permalink/240111/7dfdb0aab7d954904a6a2a8e71d0f00f.png" alt="pixel-fonts" border="0"></marquee>
 =========================================================================================================================================
 
-Computer Science student at ITM Skills University
+Computer Science student from INDIA
 -------------------------------------------------
 
 I love coding
