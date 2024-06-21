@@ -6,11 +6,10 @@
 Computer Science Engineer from India
 -------------------------------------------------
 
-I love coding
-
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [ashlinleegeorge@gmail.com](mailto:ashlinleegeorge@gmail.com)
-* 🧠  I'm learning Python
+* I’m currently learning Python, C++, C, HTML, CSS, Javascript and React.
+* 🧐 I am also interested in Future tech, UIUX, AI and Data Science.
 
 
 ### Skills
